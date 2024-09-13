@@ -1,0 +1,38 @@
+table{
+    border: 2px solid;
+    border-color: #F2F2F2;
+}
+td, th{
+    padding: 10px;
+    text-align: center;
+    width: 220px;
+}
+.txtEsquerda{
+    text-align: left;
+}
+.th01{
+    background-color: #F2F2F2;
+}
+.th02{
+    background-color: #555C66;
+    color: white;
+}
+.th03{
+    background-color: #E7516C;
+    color: white;
+}
+.th04{
+    background-color: #70CF69;
+    color: white;
+}
+.coluna{
+    background-color: #F5F7FA;
+}
+.Uline{
+    color: rgb(133, 0, 133);
+}
+.selula{
+    border: 2px;
+}
+
+
